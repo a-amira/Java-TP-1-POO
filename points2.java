@@ -6,7 +6,7 @@ public class points2 {
         this.Nom = Nom ;
         this.abs = abs;
     }
-    public void initialiser(points p){
+    public void initialiser(points2 p){
         this.Nom = p.Nom;
         this.abs = p.abs;
     }
