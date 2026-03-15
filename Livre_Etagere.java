@@ -43,7 +43,7 @@ class Livre{
         return prix;
     }
     public void setprix(double prix){
-        if (peixFixe){
+        if (prixFixe){
             System.out.println("prix fixé")
         }
         else{
