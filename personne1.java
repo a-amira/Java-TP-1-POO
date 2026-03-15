@@ -11,6 +11,6 @@ public class personne1 {
         this.age = age;
     }
     public void afficher(){
-        System.out.println("CIN = "+this.CIN+", Nom = "+this.Nom+", Prenom = "+this.Prenom+", Age= "+this.age+);
+        System.out.println("CIN = "+this.CIN+", Nom = "+this.Nom+", Prenom = "+this.Prenom+", Age= "+this.age);
     }   
 }
