@@ -7,9 +7,9 @@ public class Points3{
         this.abs=abs;
     }
     public void afficher(){
-        System.out.println("Nom du point"+Nom+"et d'abscisse"+abs);
+        System.out.println("Nom du point" +Nom+ "et d'abscisse" +abs);
     }
-    prublic void translate( double a){
+    public void translate( double a){
         abs+=a;
     }
 }
